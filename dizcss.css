@@ -1,0 +1,47 @@
+p {
+	
+	color:green;
+}
+
+.clblShowTables {
+	position:relative;
+	color:blue;
+	margin-left: 20px;
+	margin-right: 20px;
+	display: block;
+}
+.clblShowTables:hover {
+	background-color: yellow;
+}
+
+
+.clblArr0 {
+	
+}
+
+#pTables {
+	text-align: center;
+}
+
+#divLblShowTables {
+	position:relative;
+	border-style: solid;
+	max-width: 200px;
+	overflow: auto;
+	
+}
+
+#divLblMover {
+	position:relative;
+}
+
+#lblMover {
+	position:relative;
+	color:purple;
+	left:300px;
+}
+
+#tableDiv {
+	position:relative;
+	top:100px;
+}
